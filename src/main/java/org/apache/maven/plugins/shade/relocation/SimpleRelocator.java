@@ -108,8 +108,8 @@ public class SimpleRelocator
             }
             else
             {
-                this.shadedPattern = "hidden." + this.pattern;
-                this.shadedPathPattern = "hidden/" + this.pathPattern;
+                this.shadedPattern = "";
+                this.shadedPathPattern = "";
             }
         }
 
